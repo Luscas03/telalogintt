@@ -1,0 +1,61 @@
+
+#logo {
+    color: white;
+    margin-top: 2%;
+   
+}
+#login {
+
+    color: white;
+    margin-top: 30px;
+}
+.input-field {
+    color: white;
+}
+#email {
+    margin-top: 20px;
+    box-shadow: 0 0 0 0;
+    border: 1px solid #3d5466;
+    background-color:  #15202b;
+    color: white;
+    outline-color: #1da1f2;
+    width: 550px;
+    height: 60px;
+    border-radius: 5px 5px 5px 5px;
+}
+
+#passwd {
+margin-top: 20px;
+box-shadow: 0 0 0 0;
+border: 1px solid #3d5466;
+background-color:  #15202b;
+color: white;
+outline-color: #1da1f2;
+width: 550px;
+height: 60px;
+border-radius: 5px 5px 5px 5px;
+}
+#btn button{
+background-color: #1da1f2;
+border: 0;
+box-shadow: 0 0 0 0;
+border: 0 none;
+outline: 0;
+color: white;
+margin-top: 20px;
+width: 560px;
+height: 50px;
+border-radius: 50px 50px 50px 50px;
+}
+#btn button:hover {
+    background-color: #0f659b;
+    transition: 0.5s;
+}
+  #esq {
+      color: #1da1f2;
+     
+  }
+  #fgt {
+      color: white;
+      transform: translatey(20px);
+    }
